@@ -153,7 +153,9 @@ Pertemuan1/
 
 **Hasil tampilan:**
 
-![Hasil contohprogram.html](screenshots/contohprogram.png)
+![Hasil contohprogram.html]
+<img width="742" height="772" alt="image" src="https://github.com/user-attachments/assets/f3c15ee1-ca4c-44d7-a106-e01ebdf0be90" />
+
 
 ---
 
@@ -184,7 +186,8 @@ Pertemuan1/
 
 **Hasil tampilan:**
 
-![Hasil quiz.html](screenshots/quiz.png)
+![Hasil quiz.html]
+<img width="555" height="647" alt="image" src="https://github.com/user-attachments/assets/ec610ab6-2cfe-4fba-b7fa-d517b5d5d62f" />
 
 ---
 
@@ -256,7 +259,7 @@ Atribut `target="_blank"` membuka link eksternal di tab baru.
 
 **Hasil tampilan:**
 
-![Hasil tugasprak.html](img/ss1.png)
+![Hasil tugasprak.html]
 <img width="1917" height="952" alt="ss1" src="https://github.com/user-attachments/assets/b937d06c-fbce-4b69-9bb1-d25b86df73c2" />
 
 ---
