@@ -17,24 +17,6 @@
 | **Universitas** | Universitas Pancasila |
 | **Mata Kuliah** | Praktikum Desain Web A |
 | **Pertemuan** | 1 & 2 |
-| **Dosen / Asisten** | _(isi nama dosen/asisten)_ |
-
----
-
-## 📑 Daftar Isi
-
-1. [Tujuan Praktikum](#1-tujuan-praktikum)
-2. [Dasar Teori](#2-dasar-teori)
-3. [Alat dan Bahan](#3-alat-dan-bahan)
-4. [Struktur Proyek](#4-struktur-proyek)
-5. [Pembahasan dan Hasil](#5-pembahasan-dan-hasil)
-6. [Rekap Tag HTML yang Digunakan](#6-rekap-tag-html-yang-digunakan)
-7. [Cara Menjalankan](#7-cara-menjalankan)
-8. [Kendala dan Evaluasi](#8-kendala-dan-evaluasi)
-9. [Kesimpulan](#9-kesimpulan)
-10. [Referensi](#10-referensi)
-
----
 
 ## 1. Tujuan Praktikum
 
