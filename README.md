@@ -257,6 +257,7 @@ Atribut `target="_blank"` membuka link eksternal di tab baru.
 **Hasil tampilan:**
 
 ![Hasil tugasprak.html](img/ss1.png)
+<img width="1917" height="952" alt="ss1" src="https://github.com/user-attachments/assets/b937d06c-fbce-4b69-9bb1-d25b86df73c2" />
 
 ---
 
