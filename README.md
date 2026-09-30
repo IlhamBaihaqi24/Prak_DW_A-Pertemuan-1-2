@@ -256,7 +256,7 @@ Atribut `target="_blank"` membuka link eksternal di tab baru.
 
 **Hasil tampilan:**
 
-![Hasil tugasprak.html](screenshots/tugasprak.png)
+![Hasil tugasprak.html](img/ss1.png)
 
 ---
 
@@ -289,13 +289,3 @@ Atribut `target="_blank"` membuka link eksternal di tab baru.
 
 > ⚠️ Folder `img/` harus berada satu level dengan file HTML agar gambar tampil dengan benar.
 
----
-
-## 8. Kendala dan Evaluasi
-
-| No | Kendala | Solusi |
-|---|---|---|
-| 1 | Link email tidak berfungsi karena penulisan `mailto::` (dua titik dua) | Diperbaiki menjadi `mailto:` |
-| 2 | Konten pada `quiz.html` berada di luar tag `<body>` | Seluruh konten dipindahkan ke dalam `<body>` |
-| 3 | Gambar tidak tampil jika path salah | Memastikan folder `img/` sejajar dengan file HTML dan path ditulis relatif |
-| 4 | Perbedaan antara `<b>` dengan `<strong>` dan `<i>`
